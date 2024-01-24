@@ -1,0 +1,70 @@
+G1
+Introduzione al corso; Architettura del calcolatore; Che cos'è; l'informatica; Linguaggi di programmazione (macchina, assembly, alto livello); Il calcolatore come macchina programmabile. La macchina di von Neumann. Informazione (bit, byte,...). Caricamento in RAM del programma, fetch-decode-execute. 
+Architettura della CPU: ALU e CU. Un esempio di CPU con relativo linguaggio assembly.
+
+G2
+Ciclo di vita del software. Strumenti per la programmazione. Storia di go. Il primo programma in go. Il go tool. Compilazione. Esecuzione. Formattazione. Documentazione.
+
+G3
+Discussione degli aspetti lessicali e sintattici. Commenti. Struttura generale di un programma go: programma, pacchetti, sorgenti. La libreria standard.
+Variabili: nome, tipo, valore, scope. Tipi. Classificazione dei tipi (tipi di base, tipi composti, interfacce). Dichiarazione, assegnamenti e assegnamenti multipli, short-assignment.
+I/O di base: fmt.Println, fmt.Print, fmt.Scan. Tipi di base numerici (int, float64). Espressioni numeriche. Conversioni. Variabili inutilizzate e blank variable.
+
+G4
+Selezione binaria (if). Il tipo bool e gli operatori booleani. Variabili locali all'if (locali ai blocchi; locali al costrutto).
+Il ciclo (for): versione unaria, ternaria, zeraria. Istruzioni break e continue.
+
+G5
+Rappresentazione dell'informazione. Notazione posizionale. Rappresentazione degli interi negativi. Range di rappresentazione, overflow. Tipi interi a lunghezza fissa.
+Cenni alla rappresentazione dei reali: virgola fissa e mobile (standard IEEE 754). Cenni al tipo complex. I caratteri (ASCII, Unicode, UTF-8). Tipo rune.
+
+G6
+Tipo string: differenze fra raw e utf-8. Funzione len. Quarta forma del ciclo for (range).
+Selezione multiaria (switch)
+
+G7
+Funzioni: parametri, segnatura argomenti. Passaggio per valore. Valori restituiti. Valori restituiti con nome.
+
+G8
+Pacchetto strconv e pacchetto strings.
+
+G9
+Puntatori: operatori * e &. La funzione new.]
+
+G10
+Type: alias e definizioni. Struct.
+
+G11
+Array e slice. Inizializzatori. Applicazione dei for range. Funzione append. Subslicing. fmt.Printf. Argomenti da riga di comando.
+
+G12
+Generazione numeri pseudo-casuali. Pacchetto math. Esercizi
+
+G13
+Ricorsione. Stack di esecuzione.
+
+G14
+Mappe. Applicazione dei for range. Conversione di string a []rune.
+
+G15
+Metodi e interfacce.
+
+G16
+I/O avanzato. File, istruzione defer. Tipi funzione. L'esempio dell'integrazione numerica (metodo dei trapezoidi e metodo Monte-Carlo)
+
+G17
+Pacchetti e struttura. Visibilità. Documentare un pacchetto.
+
+Altro
+Grafica con il pacchetto github.com/holizz/terrapin. Esempio semplice. Frattali e curva di Koch
+Esempio: un pacchetto per le liste concatenate semplici di stringhe
+Testing unitario e funzionale (E2E) [TWG13]
+
+C1
+Il linguaggio C. Il gcc. Differenze sintattiche: punto-e-virgola, parentesi nelle strutture di controllo, dichiarazioni di variabili, tipi e funzioni. Differenze nelle strutture di controllo del flusso (switch, while, do-while). Uso di istruzioni semplici nelle strutture di controllo. Inclusione vs. importazione.
+
+C2
+Assenza di stringhe, slice, mappe; uso dei char[] per le stringhe. Tipi elementari e dipendenza dal compilatore; uso di tipi specifici (stdint.h, bool.h). Cast impliciti. Definizione di macro. Funzioni di libreria. Parametri da riga di comando
+
+C3
+Puntatori, aritmetica dei puntatori. Gestione della memoria: malloc, free

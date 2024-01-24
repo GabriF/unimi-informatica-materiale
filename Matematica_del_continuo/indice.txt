@@ -1,0 +1,112 @@
+* orale completo
+** orale ridotto
+
+Lezione 1
+Quantificatori. Simbolo di sommatoria. Principio di induzione. Coefficiente binomiale.
+
+Lezione 2
+Numeri naturali, interi, razionali, reali. Proprietà dei numeri reali. Rappresentazione decimale dei numeri reali.
+La retta reale.
+
+Lezione 3
+Insiemi di numeri reali limitati e illimitati. Estremo superiore, estremo inferiore di un insieme.
+Massimo e minimo. Teorema di completezza di R. Il simbolo "infinito". Intervalli limitati e non limitati. Radice
+n-esima di un numero reale non negativo. Valore assoluto di un numero reale.
+
+Lezione4
+Introduzione ai numeri complessi. Numeri complessi: forma algebrica e forma trigonometrica. Potenza n-sima di
+un numero complesso (*). Radici n-esime di un numero complesso (*). Teorema fondamentale dell’algebra.
+
+Lezione 5
+Funzioni reali di variabile reale: dominio immagine, grafico. Funzioni iniettive. Funzione inversa. Funzioni
+monotone. Funzioni concave e convesse. Relazione tra funzioni monotone e funzioni iniettive. Funzioni
+superiormente e inferiormente limitate. Sup, Inf, Massimo e minimo assoluto di una funzione su un insieme.
+Funzioni concave e convesse. Segno e zeri di una funzione.
+
+Lezione 6
+Operazioni elementari con le funzioni. Composizione di funzioni. Traslazioni, simmetrie. Funzioni pari, funzioni
+dispari. Grafico delle funzioni trigonometriche inverse.
+
+Lezione 7
+Grafico delle funzioni potenza, signum x, parte intera di x.
+
+Lezione 8
+Intorno di un numero reale. Intorno destro e intorno sinistro. Intorno di +/- infinito. Punto isolato, punto interno, punto di
+accumulazione.
+
+Lezione 9
+Successioni numeriche. Successioni limitate e illimitate. Successioni monotone. Proposizioni definitivamente
+vere. Successioni convergenti e divergenti. Successioni regolari e indeterminate. Successioni infinite e
+infinitesime. Teoremi sui limiti di successioni: unicità del limite di successioni convergenti (*), successioni
+convergenti sono limitate (*), successioni monotone sono regolari (*), permanenza del segno (*), confronto (*),
+prodotto di una successione limitata e di una successione infinitesima è una successione infinitesima. Operazioni
+con i limiti di successioni e forme di indecisione. Numero di Nepero. Limiti di successioni: criterio del rapporto,
+criterio della radice n-esima. Confronto tra successioni infinite: fattoriali, potenze, esponenziali, logaritmi.
+Simboli di Landau.
+
+MANCANTE
+Grafico delle funzioni elementari. Polinomi di primo e secondo grado, valore assoluto di x, radice quadrata di x.
+Funzioni potenza ad esponente naturale, intero, razionale, reale. Funzioni trigonometriche. Funzioni esponenziali.
+Funzioni logaritmo. Grafico delle funzioni elementari composte
+con traslazioni e simmetrie. Disequazioni.
+
+Lezione 10
+Limiti di funzioni. Limite destro/sinistro, per eccesso/difetto. Asintoti orizzontali/verticali. Relazione tra limiti
+di funzioni e limiti successionali. Limiti di funzioni composte. Simboli di Landau per le funzioni. Limiti notevoli
+e sviluppi al primo ordine con o-piccolo. Asintoti obliqui.
+
+Lezione 11
+Continuità. Continuità delle funzioni elementari. Classificazione dei punti di discontinuità. Teorema di Bolzano
+(teorema degli zeri) . Teorema di Darboux o dei valori intermedi. Teorema di Weierstrass.
+
+Lezione 12
+Funzioni derivabili in un punto. Significato geometrico della derivata. Retta tangente al grafico di una funzione
+in un punto di derivabilità (*)(**). Relazione tra derivabilità e continuità (*). Derivate delle funzioni elementari.
+Funzioni non derivabili in un punto: esempi di punti a tangente verticale, punti angolosi, punti cuspidali. Regole
+di derivazione (somma, differenza, prodotto, rapporto). Derivata della funzione composta. Derivabilità della
+funzione inversa e derivata della funzione inversa. Condizione sufficiente di derivabilità in un punto: continuità
++ uguaglianza limiti (finiti) destro e sinistro della funzione derivata.
+
+Lezione 13
+Punti di massimo e minimo relativi. Teorema di Fermat (*)(**). Teorema di Rolle (*)(**). Teorema di Lagrange
+(*). Conseguenze del Teorema di Lagrance: funzioni con derivata nulla su un intervallo sono costanti (*);
+funzioni con derivate coincidenti su un intervallo differiscono per una costante additiva (*); relazioni tra
+monotonia e segno della derivata su un intervallo (*). Teorema di Cauchy. Prima formula dell’incremento finito
+(*). Seconda formula dell’incremento finito (*). Derivate successive. Relazione tra concavità/convessità e segno
+della derivata seconda. Studio del grafico di una funzione.
+
+Lezione 14
+Teorema di de l'Hopital. Formula di Taylor con resto in forma di Peano e in forma di Lagrange.
+
+----- PRIMA PROVA IN ITINERE -----
+
+Lezione 15
+Integrale indefinito. Primitiva di una funzione. Alcune primitive elementari. Proprietà dell'integrale indefinito.
+Integrali definiti e aree. Proprietà dell'integrale definito.
+Teorema della media integrale (*)(**). Teorema fondamentale del calcolo integrale (*)(**). Formula
+fondamentale del calcolo integrale (*)(**). Metodi di integrazione per parti e per sostituzione. Integrazione delle
+funzioni razionali.
+Integrali impropri su intervalli limitati e non chiusi e su intervalli chiusi e non limitati. Criteri di integrabilità in
+senso improprio per funzioni non negative: criterio del confronto, criterio del confronto asintotico. Convergenza
+assoluta degli integrali impropri.
+
+Lezione 16
+Serie numeriche. Serie geometrica. Serie armonica. Serie armonica generalizzata. Serie a termini positivi, criteri
+di convergenza: criterio del confronto, criterio del confronto asintotico, criterio della radice n-esima, criterio del
+rapporto. Serie a termini di segno qualunque. Convergenza assoluta. Criterio di Leibniz per la convergenza di
+serie a segni alterni. Criterio convergenza assoluta. Serie numeriche e integrali impropri.
+
+Lezione 17
+Serie di potenze . Raggio di convergenza e criteri di determinazione. Serie derivata di una serie di potenze. Serie
+di potenze con raggio non nullo e derivabilità di qualunque ordine della funzione somma. Derivabilità e
+integrabilità termine a termine di una serie di potenze con raggio non nullo.
+
+Lezione 18
+Funzioni analitiche o sviluppabili in serie di Taylor. Criterio di sviluppabilità in serie di Taylor. Esempi di
+funzioni analitiche. Confronto tra formula di Taylor e serie di Taylor.
+
+Lezione 19
+Serie di Fourier. Convergenza della serie di Fourier. Formula di Parseval.
+
+Lezione 20
+Irrazionalità del numero e. Forma esponenziale dei numeri complessi. Formula di Eulero. Equazione di Eulero.
