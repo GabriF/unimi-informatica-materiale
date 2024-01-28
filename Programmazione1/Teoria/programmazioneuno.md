@@ -634,9 +634,10 @@ I modificatori principali sono:
 - %f: numeri float
 - %v: stampa la variabile come la scriverebbe Go
 - %#v: stampa il letterale come verrebbe creato a livello di codice
-- %T:
+- %T: tipo della variabile
 - %s: stringhe, possibile allineare la stringa con un numero davanti
 - %%: stampa il carattere '%'
+- %c: stampa il char (carattere singolo)
 
 # G12: Numeri pseudocasuali
 
