@@ -1,0 +1,31 @@
+* dimostrazione da sapere
+
+L01 - Insiemi e funzioni
+Insiemi. Linguaggi. Insieme delle parti, operazioni sugli insiemi. Coppie ordinate, prodotto cartesiano.
+Relazioni tra insiemi. Relazioni d'equivalenza e d'ordine, relazioni totali e parziali. Teorema classi di equivalenza. Funzioni. Funzioni iniettive, suriettive e bieunivoche.
+Composizione di funzioni. Inversa delle funzioni. Teorema dell'esistenza dell'inversa.
+
+L02 - Strutture algebriche
+Operazioni: definizione, operazioni associative e commutative, elemento neutro, elemento inverso. Teorema di unicità dell'elemento neutro e dell'inverso per un'operazione associativa. Monoidi. Gruppi. Anelli. Campi.
+
+L03 - Classi di equivalenza
+Classi di equivalenza. Partizioni. Insieme quoziente modulo ~. Congruenza modulo n. Teorema ~_n è una relazione d'equivalenza. Insieme classi di resto di modulo n.
+Teorema: addizione e moltiplicazione in Z sono compatibili con ~_n. Teorema Z_n campo solo se n è primo. Teorema di partizione di un insieme nelle classi di equivalenza*.
+
+L04 - Divisibilità
+Divisibilità. Teorema divisibilià in Z (o teorema della divisione euclidea)*. Massimo comun divisore. Teorema di esistenza del MCD. Numeri primi e irriducibili.
+Teorema: numeri primi sono irriducibili e viceversa. Teorema: i numeri primi non sono finiti*. Teorema fondamentale dell'aritmetica. Minimo comune multiplo.
+
+L05 - Polinomi
+Definizione di polinomi in un campo k. Somma e prodotto tra polinomi. Teorema di divisione euclidea sui polinomi. Teorema di Ruffini*. MCD di due polinomi.
+
+L06 - Matrici
+Insieme R^n. Somma su R^n. Matrici: definizione, notazione, insieme Mat_nXm. Tipi di matrici: quadrate, diagonali e triangolari inferiori/superiori, simmetriche e antissimetriche. Matrice trasposta.
+Somma di matrici. Prodotto tra matrici. Matrici quadrate invertibili. Matrici a scalini. Rango di matrice. Algoritmo di riduzione a scalini di una matrice. Traccia di una matrice.
+
+L07 - Determinante
+Matrice ridotta. Determinante. Teorema di Binet. Conseguenza teorema di Binet: Teorema di invertibilità*. Cofattore. Calcolo dell'inversa col cofattore.
+
+L08 - Sistemi lineari
+Sistemi di equazioni lineari: definizione, notazione, sistemi lineari come matrici. Sistemi omogenei. Teorema di Rouché - Capelli I. Teorema di Rouché - Capelli II. Riduzione in forma di Gauss.
+Pivot e rango di una matrice. Teorema di Cramer*. Metodo di Cramer.
