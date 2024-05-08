@@ -1,14 +1,14 @@
 * orale completo
 ** orale ridotto
 
-Lezione 1
+Lezione 1 (MANCANTE)
 Quantificatori. Simbolo di sommatoria. Principio di induzione. Coefficiente binomiale.
 
-Lezione 2
+Lezione 2 (MANCANTE)
 Numeri naturali, interi, razionali, reali. Proprietà dei numeri reali. Rappresentazione decimale dei numeri reali.
 La retta reale.
 
-Lezione 3
+Lezione 3 (MANCANTE)
 Insiemi di numeri reali limitati e illimitati. Estremo superiore, estremo inferiore di un insieme.
 Massimo e minimo. Teorema di completezza di R. Il simbolo "infinito". Intervalli limitati e non limitati. Radice
 n-esima di un numero reale non negativo. Valore assoluto di un numero reale.
