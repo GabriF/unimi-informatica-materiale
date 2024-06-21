@@ -20,7 +20,7 @@ L05 - Polinomi
 Definizione di polinomi in un campo k. Somma e prodotto tra polinomi. Teorema di divisione euclidea sui polinomi. Teorema di Ruffini*. MCD di due polinomi.
 
 L06 - Matrici
-Insieme R^n. Somma su R^n. Matrici: definizione, notazione, insieme Mat_nXm. Tipi di matrici: quadrate, diagonali e triangolari inferiori/superiori, simmetriche e antissimetriche. Matrice trasposta.
+Insieme R^n. Somma su R^n. Matrici: definizione, notazione, insieme Mat_nXm(K). Tipi di matrici: quadrate, diagonali e triangolari inferiori/superiori, simmetriche e antissimetriche. Matrice trasposta.
 Somma di matrici. Prodotto tra matrici. Matrici quadrate invertibili. Matrici a scalini. Rango di matrice. Algoritmo di riduzione a scalini di una matrice. Traccia di una matrice.
 
 L07 - Determinante
@@ -29,3 +29,25 @@ Matrice ridotta. Determinante. Teorema di Binet. Conseguenza teorema di Binet: T
 L08 - Sistemi lineari
 Sistemi di equazioni lineari: definizione, notazione, sistemi lineari come matrici. Sistemi omogenei. Teorema di Rouché - Capelli I. Teorema di Rouché - Capelli II. Riduzione in forma di Gauss.
 Pivot e rango di una matrice. Teorema di Cramer*. Metodo di Cramer.
+
+L09 - Spazi vettoriali
+Spazi vettoriali. Proprietà spazi vettoriali. Sottospazi vettoriali. Somma di sottospazi vettoriali. Teorema: l'intersezione di due sottospazi vettoriali di è un sottospazio*.
+
+L10 - Generatori di spazi
+Combinazioni lineari. Sottospazi generati e sistemi di generatori. Spazi finitamente generati. Somma sottospazi generati. Teorema: lo spazio generato è un sottospazio*. Criterio sistemi di generatori.
+Dipendenza e indipendenza lineare. Criterio indipendenza lineare*. Basi. Teorema di esistenza e unicità dei vettori generati da una base*. Completamento della base. Estrazione di una base.
+Basi canoniche: spazio R^n, spazio Mat_nXm(K), spazio K[x]_{<=D}, spazio K[x]. Teorema della base. Dimensione. Teorema: dimensione del sottospazio. Rango di una matrice (2^ definizione).
+Teorema di invarianza del rango per matrici Gauss-equivalenti. Teorema: soluzioni del sistema omogeneo formano un sottospazio di R^n*. Formula di Grassman.
+
+L11 - Applicazioni lineari
+Applicazioni lineari. Proposizione: f(0_v) = 0_w*. Teorema di esistenza e unicità di omomorfismo fissata una base del dominio*. Teorema di linearità della composizione e dell'inversa.
+Immagine e nucleo. Teorema: il nucleo è un sottospazio del dominio. Teorema: l'immagine è un sottospazio del codominio. Teorema di nullità più rango. Iniettività, suriettività e biettività.
+Teorema: relazione tra iniettività e ker e tra suriettività e Im*.  Endomorfismi e isomorfismi. Teorema: l'isomorfismo è una relazione d'equivalenza.
+Teorema: relazione tra isomorfismo e dimensione di dominio e codominio*.
+
+L12 - Matrici rappresentative
+Mappe. Matrice rappresentativa. Teorema: costruzione dell'immagine. Insieme hom. Teorema: isomorfismi di hom. Matrice del cambio di base. Proprietà matrici rappresentative.
+
+L13 - Diagonalizzabilita
+Endomorfismi e insieme End. Autovettori e autovalori. Teorema di Diagonalizzabilita I. Diagonalizzabilità. Spettro. Polinomio caratteristico. Teorema di Diagonalizzabilita II. Molteplicita algebrica. Autospazi.
+Teorema: l'autospazio è un sottospazio*. Molteplicita geometrica. Teorema: relazione tra molteplicita e dimensione dello spazio. Teorema di Diagonalizzabilita III.
