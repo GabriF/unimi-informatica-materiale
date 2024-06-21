@@ -1,0 +1,1 @@
+7.2.3.24206wnds:Windows 86.2SntFC1710853569372D1710855464734S86218Tet(a)$FrontOf(a,d)Cube(a)$(LeftOf(a,d)|RightOf(a,d))Between(c,a,e)|Between(c,a,d)RightOf(c,a)$Small(c)RightOf(c,d)$(RightOf(b,c)&LeftOf(b,e))FrontOf(e,b)%(Tet(e) $ RightOf(e,b))Dodec(b)$ (~FrontOf(b,d)$BackOf(b,d))BackOf(c,a)&FrontOf(c,e)s=47293;

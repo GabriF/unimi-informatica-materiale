@@ -1,0 +1,1 @@
+7.2.3.24206wnds:Windows 86.2SntFC1712668145905D1712672055875S83708Between(c, a, d) & ~Tet(c)/x BackOf(x, a) & /x FrontOf(x, c)FrontOf(a, c) & ~/x (BackOf(x, a) & FrontOf(x, c))/x LeftOf(x, d) % Large(b)/x /y (~Tet(x) & ~Tet(y) & Between(b, x, y))FrontOf(d, b) & LeftOf(d, f)Dodec(e)~/x LeftOf(x, e) | Large(e)s=49758;

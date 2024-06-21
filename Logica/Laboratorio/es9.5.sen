@@ -1,0 +1,3 @@
+7.2.3.24206wnds:Windows 86.2SntFC1712664688384D1712664783594D1712665221523D1712665223456D1712665224798S1464910~@x Cube(x)
+; tutti gli elementi devono essere cubi@x ~Dodec(x)~@x ~Small(x)
+; tutti gli elementi devono essere medi o grandi@x (Large(x) $ Cube(x))@x (Medium(x) $ Cube(x))~@x ( Small(x) $ Tet(x))/x Tet(x) $ /x Large(x)@x ((Small(x) & Large(x)) $ Dodec(x))~@x ( Cube(x) % Large(x))@x Cube(x) % @y Cube(y)s=64789;

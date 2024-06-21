@@ -1,0 +1,6 @@
+7.0.1.14930wnds:Windows NT (unknown)6.2SntFC1715861348444D1715862783164S101975/x /y (Dodec(x) & Dodec(y) & x # y)
+;1. There are at least two dodecahedra.@x @y @z ((Tet(x) & Tet(y) & Tet(z))  $ (x = y | x = z | y = z))
+; 2. There are at most two tetrahedra./x /y (Cube(x) & Cube(y) & x # y  & @z (Cube(z) $ (x = z | y = z)))
+; 3. There are exactly two cubes./x /y /z (~Small(x) & ~Small(y) & ~Small(z) & @w (~Small(w)  $ (w = x | w = y | w = z))  & x  # y & x # z  & z # y)
+; 4. There are only three things that are not small./x (Cube(x) & Large(x)  &  @y ((Cube(y) & Large(y))  $ x = y) & @y (Dodec(y)  $ (~BackOf(y,x))))
+; 5. There is a single large cube. No dodecahedron is in back of its=111422;

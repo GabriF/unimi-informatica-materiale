@@ -1,0 +1,7 @@
+7.2.3.24206wnds:Windows 86.2SntFC1712666686566D1712668124903S84444/x (Dodec(x) & Large(x))
+; qualche dodecaedro è largo/x (Dodec(x) $ Large(x))
+; c'è qualcosa che non è un dodecaedro
+; oppure
+; esiste un dodecaedro largo@x (Tet(x) & Small(x))
+; ogni elemento è un tetaedro piccolo@x (Tet(x) $ Small(x))
+; ogni tetaedro è piccolos=51526;

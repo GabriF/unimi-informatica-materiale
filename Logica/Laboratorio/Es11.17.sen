@@ -1,0 +1,11 @@
+7.2.3.24206wnds:Windows 86.2SntFC1714654630581D1714655701510S838910@x@y((Tet(x) & Dodec(y)) $ (FrontOf(x,y)))
+; 1. Every tetrahedron is in front of every dodecahedron.@x(Dodec(x)$ ~/y(BackOf(y,x)))
+; 2. No dodecahedron has anything in back of it.@x(Tet(x) $ ~/y(Cube(y)&SameSize(x,y)))
+; 3. No tetrahedron is the same size as any cube.@x(Dodec(x)$ /y(Cube(y)& SameSize(x,y)))
+; 4. Every dodecahedron is the same size as some cube.@x((/y(/z(Between(x, y, z)  & Dodec(y) & Dodec(z))))$Cube(x))
+; 5. Anything between two dodecahedra is a cube.@x(Cube(x)$/y/z(Between(x,y,z)))
+; 6. Every cube falls between two objects.@x((Cube(x)& /y(BackOf(y,x)))$Small(x))
+; 7. Every cube with something in back of it is small.@x((Dodec(x)& ~/y(RightOf(y,x))) $ Small(x))
+; 8. Every dodecahedron with nothing to its right is small.@x((Dodec(x)& ~/y(RightOf(y,x)))$ /y(LeftOf(y,x)))
+; 9. Every dodecahedron with nothing to its right has something to its left.@x((Dodec(x)& /y(Cube(y)& LeftOf(x,y))) $ Large(x))
+; 10. Any dodecahedron to the left of a cube is large.s=158863;

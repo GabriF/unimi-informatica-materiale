@@ -1,0 +1,13 @@
+7.2.3.24206wnds:Windows 86.2SntFC1712665720271D1712666559708S815812/x Tet(x)
+; esiste un tetaedro/x (Tet(x) & Large(x))
+; esiste un tetaedro che è anche largo/x (Tet(x) | Large(x))
+; esiste un teteadro o un elemento grando/x ((Tet(x) & ~Tet(x)) | Large(x))
+; esiste un elemento grande/x (~Tet(x) | Large(x))
+; esiste un elemento che è grande oppre non è un tetaedro/x (Tet(x) $ Large(x))
+; esiste un elemento che se è grande non può non essere largo/x (~Cube(x) | Between(x, a, b))
+; esiste un elemento che non è un cubo oppure è in mezzo ad a e b/x (Cube(x) $ Between(x, a, b))
+; esiste un elemento che se è un cubo allora è in mezzo ad a e b/x (Cube(x) & Between(x, a, b))
+; esiste un cubo che è a sinistra di a che è a sinistra di b/x Dodec(x) & /y Large(y)
+; esiste un dodecaedro e anche un elemento grande/x Dodec(x) & /x Large(x)
+; esiste un dodecaedro e anche un elemento grande/x (Dodec(x) & Large(x))
+; esiste un dodecaedro che è grandes=146726;
