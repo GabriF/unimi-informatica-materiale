@@ -37,6 +37,9 @@ Struttura della tabella delle pagine
 - Tabella delle pagine con hashing: si applica una funzione hash al numero di pagina logica richiesta, e si cerca il risultato in una tabella di hashing. L’entry puntata è una lista concatenata di elementi formati da traduzione pagina-frame e puntatore al successivo elemento della lista. Va scandita fino a trovare la traduzione cercata. Gli elementi di queste liste possono anche essere gruppi di traduzioni, invece che una sola, migliorando le prestazioni.
 - Tabella delle pagine invertita: si tiene solo una tabella globale che tiene per ogni frame l’ASID cui appartiene, il numero di pagina logica in quello spazio e i bit di protezione. Questa soluzione permette di risparmiare memoria, ma complica la condivisione, e può servire una scansione di tutta la lista per trovare una traduzione (mitigabile con una tabella invertita con hashing, che però diminuisce le prestazioni).
 
+Processi parzialmente in memoria
+: Non sempre è necessario tenere l'intero processo in memoria centrale per l'esecuzione. All'avvio si possono caricare solo alcune pagine e iniziare l'esecuzione. Quando si tenterà di accedere a una pagina non caricata, si genererà un page fault, poiché la pagina di richiesta ha il bit di invalidità settato. Il SO, dopo aver verificato che non sia realmente un accesso illegale, recupererà la pagina richiesta dal disco, e riprenderà l'esecuzione del processo. La pagina caricata è messa in un frame libero oppure sostituita a una pagina del processo, o di un altro processo, che sarà scaricata in area di swap, e potrà essere ricaricata in seguito. Essendo le pagine di dimensione fissa, quest'area è semplice da gestire. Permette di tenere in memoria centrale solo le pagine necessarie nell'immediato futuro.
+
 # Segmentazione
 
 Definizione
